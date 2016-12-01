@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="current_mplitude">修改中等振幅，当前%1$s</string>
+    <string name="current_Disparity">修改振幅差距，当前%1$s</string>
+    <string name="current_float_time">修改移动速度，当前%1$s</string>
+    <string name="current_rotate_time">修改旋转速度，当前%1$s</string>
+    <string name="delete_progress_btn_text">去除进度条,玩转弧线</string>
+    <string name="increase_the_progress_btn_text">增加进度:</string>
+
+</resources>
